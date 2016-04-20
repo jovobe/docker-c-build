@@ -1,0 +1,5 @@
+compiler:
+    tty: true
+    build: compiler
+    volumes:
+        - ./code:/code
